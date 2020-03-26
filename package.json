@@ -25,7 +25,7 @@
   "homepage": "https://apitools.dev/json-schema-ref-parser/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/APIDevTools/json-schema-ref-parser.git"
+    "url": "https://github.com/SirNiggo/json-schema-ref-parser.git"
   },
   "license": "MIT",
   "main": "lib/index.js",
